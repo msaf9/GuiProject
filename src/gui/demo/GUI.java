@@ -58,7 +58,6 @@ public class GUI implements ActionListener {
 	public void actionPerformed(ActionEvent e) {
 		String user = userText.getText();
 		String password = passwordText.getText();
-//		System.out.println(user + ", " + password);
 		
 		if(user.equals("admin") && password.equals("admin")) {
 			success.setText("");
