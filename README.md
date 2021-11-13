@@ -1,7 +1,27 @@
 # GUI Project
+GUI application.
 
-### About
-- A Login GUI (Graphical User Interface) application.
+## Table of contents
+1. Introduction
+2. Technologies
+3. Project status
+4. Installation
+5. License
 
-### Languages
+## Introduction
+A Login GUI (Graphical User Interface) application.
+
+## Technologies
 - Java
+
+## Project status
+> **In progress**
+
+## Installation
+### Get repository
+```git
+git https://github.com/msaf9/GUIProject.git
+cd GUIProject
+```
+
+## License
