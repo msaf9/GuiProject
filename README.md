@@ -20,8 +20,8 @@ A Login GUI (Graphical User Interface) application.
 ## Installation
 ### Get repository
 ```git
-git https://github.com/msaf9/GUIProject.git
-cd GUIProject
+git https://github.com/msaf9/gui-project.git
+cd gui-project
 ```
 
 ## License
