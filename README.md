@@ -2,16 +2,16 @@
 GUI application.
 
 ## Table of contents
-1. Introduction
-2. Technologies
-3. Project status
-4. Installation
-5. License
+- [Introduction](#introduction)
+- [Programming Language](#programming-language)
+- [Project status](#project-status)
+- [Installation](#installation)
+- [License](#license)
 
 ## Introduction
 A Login GUI (Graphical User Interface) application.
 
-## Technologies
+## Programming Language
 - Java
 
 ## Project status
